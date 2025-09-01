@@ -1,11 +1,17 @@
-nombre=input("ingrese el nombre del comprador")
-print(nombre)
+margen4 = "--------------Total-------------"
+margen5 = "---------------------------------"
+gracias = """
+GRACIAS POR SU COMPRA, FELIZ DIA
+"""
 
-fecha=input("26/08/2025")
-print(fecha)
+def calcular_total():
+    subtotal = 1500 + 15000 + 16000
+    iva = int(subtotal * 0.15)
+    total = subtotal + iva
 
-
-
-producto=["arroz","avena","carne","frijol"]
-precio=[1000,2000,3000,4000]
-
+    print(margen4)
+    print("Subtotal =", subtotal)
+    print("IVA =", iva)
+    print("Total =", total)
+    print(margen5)
+    print(gracias)
