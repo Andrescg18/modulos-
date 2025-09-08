@@ -1,0 +1,21 @@
+--------------factura-------------
+Andres el chamoloco fecha 01-09-2025
+--------------productos-------------
+1. pan = 1000
+2. salchichas = 1500
+3. Huevos = 1600
+4. Cocacola = 6500
+--------------sus productos-------------
+
+1. Pan = 1000
+2. Salchichas = 1500
+3. Huevos = 1600
+
+--------------Total-------------
+Subtotal= 4100
+iva= 615
+total= 4715
+---------------------------------
+
+GACIAS POR SU COMPRA, VUELVA PRONTO
+

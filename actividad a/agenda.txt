@@ -1,0 +1,17 @@
+Nombre: ivan
+Teléfono: 20000000
+Fecha del llamado: 08/09/2025
+=====================
+Teléfono: 333333333333333333
+Fecha del llamado: 08/09/2025
+=====================
+=====================
+Nombre: jhosep
+Teléfono: 30003000300
+Fecha del llamado: 08/09/2025
+=====================
+=====================
+Nombre: andres
+Teléfono: 1000000000
+Fecha del llamado: 08/09/2025
+=====================
